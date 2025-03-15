@@ -1,3 +1,4 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanu96&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: flex; justify-content: center;">
   <table>
     <tr>
